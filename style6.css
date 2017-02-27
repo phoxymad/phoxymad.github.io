@@ -1,1 +1,30 @@
+div {
+    border-radius:5px;
+}
 
+#header {
+    z-index: 1;
+    position: fixed;
+    height: 60px;
+    width: 97.5%;
+    background-color: #668284;
+}
+.left {
+    height: 60px;
+    width: 97.5%;
+    background-color:red;
+    float: left;
+}
+.right {
+    height:60px;
+    width: 97.5%;
+    background-color: purple;
+    float:right;
+}
+#footer {
+    height:60px;
+    width: 97.5%;
+    background-color: crimson;
+    clear:both;
+}
+    
