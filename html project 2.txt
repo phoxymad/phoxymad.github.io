@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>chrissy</title>
+	</head>
+	<body><img src="https://s3.amazonaws.com/codecademy-blog/assets/ninja_zpsa5dbe37a.jpg" /></body>
+	<p style="color:red">i am 38, female, and i am from corpus christi texas<p>
+	<ul>
+	<li style="font-size:18"> Interests
+	<ol>
+	<li style="font-family:times new roman">i love horror movies
+	<li> <em>eating</em> out
+	<li> going to <strong>san antonio</strong> with my family
+	<li> sushi
+	</ol>
+	<ul>
+	<li>hobbies
+	<ol>
+	<li>learning to code
+	<li>listening to music
+</html>

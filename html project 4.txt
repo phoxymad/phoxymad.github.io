@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>This is my page!</title> 
+    </head> 
+<body>
+<h1>chrissy</h1>
+<img src="http://pngimg.com/upload/skeleton_PNG5555.png" />
+<p>i find this really hard but its okay i'll get through it</p>
+<p> i am really not very computer savvy, but whatever</p>
+<p> i hope i can pass this class with an A</p>
+<a href="www.codecademy.com"/a><a href="www.myfitnesspal.com"/a>
+
+
+
+
+</body>
+</html>
